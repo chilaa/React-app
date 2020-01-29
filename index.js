@@ -16,7 +16,7 @@ class App extends Component {
       <div>
         <Hello name={this.state.name} />
         <p>
-          Mepeos first react app
+          Mepeos first react app with this change
         </p>
       </div>
     );
